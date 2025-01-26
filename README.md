@@ -4,6 +4,7 @@
 1. https://aistudio.google.com/
 2. https://chat.deepseek.com/a/chat
 3. https://github.com/ItzCrazyKns/Perplexica/blob/master/README.md
+4. https://www.perplexity.ai/
 
 ## data fetching
 1. https://docs.crawl4ai.com/core/docker-deploymeny/
